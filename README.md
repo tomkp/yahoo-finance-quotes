@@ -2,7 +2,6 @@
 
 install
 ```npm install```
-readme
 
 
 
