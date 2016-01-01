@@ -2,7 +2,7 @@
   "name": "yahoo-finance-quotes",
   "version": "1.0.0",
   "author": "tom@tomkp.com",
-  "main": "main.js",
+  "main": "index.js",
   "dependencies": {
     "axios": "^0.8.1"
   },
