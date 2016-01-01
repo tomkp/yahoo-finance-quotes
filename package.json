@@ -2,7 +2,7 @@
   "name": "yahoo-finance-quotes",
   "version": "1.0.1",
   "author": "tomkp <tom@tomkp.com>",
-  "main": "index.js",
+  "main": "lib/quotes.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/tomkp/yahoo-finance-quotes"
